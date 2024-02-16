@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (Success)
  */
-char main(void)
+int main(void)
 {
 char z;
 for (z = 'z'; z <= 'a'; z--)
