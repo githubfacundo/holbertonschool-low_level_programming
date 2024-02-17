@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-char z;
+int z;
 for (z = 'z'; z <= 'a'; z--)
 {
 putchar(z);
