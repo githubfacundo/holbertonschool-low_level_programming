@@ -11,7 +11,7 @@ int main(void)
 
 	for (num = 48; num < 58; num++)
 	{
-		putchar(num);	
+		putchar(num);
 		if (num == 57)
 			continue;
 		putchar(44);
